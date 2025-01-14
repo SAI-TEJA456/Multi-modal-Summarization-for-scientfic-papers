@@ -1,6 +1,4 @@
-# Multi-Modal Summarization for Scientific Papers
 
-## Overview
 This repository contains the implementation and results of the project titled **Multi-Modal Summarization for Scientific Papers**. The project investigates an innovative multi-modal approach for summarizing scientific articles by integrating textual and visual data (e.g., figures, tables, and images) using a Retrieval-Augmented Generation (RAG) framework. The goal is to improve the quality and informativeness of summaries.
 
 ## Features
